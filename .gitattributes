@@ -3,16 +3,10 @@ data/TEXT_emb.npy filter=lfs diff=lfs merge=lfs -text
 data/original_dataset.CSV filter=lfs diff=lfs merge=lfs -text
 data/MAEC_GitHub_features.CSV filter=lfs diff=lfs merge=lfs -text
 data/data_prep/MAEC_glove_features.CSV filter=lfs diff=lfs merge=lfs -text
-data/data_prep/[[:space:]]RoBERTa_features.CSV filter=lfs diff=lfs merge=lfs -text
-data/data_prep/[[:space:]]glove_features.CSV filter=lfs diff=lfs merge=lfs -text
-data/data_prep/[[:space:]]MAEC_praat_features.CSV filter=lfs diff=lfs merge=lfs -text
 data/data_prep/RoBERTa_features.CSV filter=lfs diff=lfs merge=lfs -text
 data/data_prep/glove_features.CSV filter=lfs diff=lfs merge=lfs -text
-data/data_prep[[:space:]]MAEC_praat_features.CSV filter=lfs diff=lfs merge=lfs -text
 data/data_prep/MAEC_praat_features.CSV filter=lfs diff=lfs merge=lfs -text
 data/MAEC_GitHub_features.zip filter=lfs diff=lfs merge=lfs -text
-data/[[:space:]]TEXT_emb.zip filter=lfs diff=lfs merge=lfs -text
 data/TEXT_emb.zip filter=lfs diff=lfs merge=lfs -text
-data/[[:space:]]MAEC_dataset.CSV filter=lfs diff=lfs merge=lfs -text
 data/MAEC_dataset.zip filter=lfs diff=lfs merge=lfs -text
 data/data_prep/MAEC_glove_features.zip filter=lfs diff=lfs merge=lfs -text
