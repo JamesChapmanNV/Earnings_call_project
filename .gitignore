@@ -1,2 +1,7 @@
 .env
 Old/
+/.ipynb_checkpoints
+data/TEXT_emb.npy
+data/MAEC_dataset.csv
+
+data/data_prep/MAEC_glove_features.csv
