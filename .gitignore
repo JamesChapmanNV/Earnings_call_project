@@ -1,7 +1,15 @@
 .env
 Old/
 /.ipynb_checkpoints
-data/TEXT_emb.npy
 data/MAEC_dataset.csv
-
+data/LABEL_emb.npy
+data/TEXT_emb.npy
+data/test_features.npy
+data/val_features.npy
+data/train_features.npy
+Feature_Engineering_RoBERT2.ipynb
 data/data_prep/MAEC_glove_features.csv
+data/data_prep/MACE_RoBERTa_features.csv
+data/data_prep/RoBERTa_features2.csv
+
+data/original_dataset.csv
