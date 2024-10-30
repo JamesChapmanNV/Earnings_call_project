@@ -13,3 +13,17 @@ data/data_prep/MACE_RoBERTa_features.csv
 data/data_prep/RoBERTa_features2.csv
 
 data/original_dataset.csv
+data/bge/original_dataset.csv
+data/bge/train_features.npy
+/data/bge
+/data/glove
+/data/investopedia
+/data/Roberta2
+data/data_prep/bge_features.csv
+data/data_prep/MAEC_RoBERTa_features.csv
+data/data_prep/investopedia_features.csv
+data/data_prep/RoBERTa_features.csv
+data/MAEC_GitHub_features.csv
+data/data_prep/RoBERTa_features.csv
+data/data_prep/RoBERTa_features.csv
+data/data_prep/RoBERTa_features.csv
