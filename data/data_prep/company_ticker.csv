@@ -3,8 +3,8 @@ Company,Ticker
 A.O. Smith Corp,AOS
 Abbott Laboratories,ABT
 AbbVie Inc.,ABBV
-ABIOMED Inc,ABT
-Activision Blizzard,MSFT
+ABIOMED Inc,ABMD 
+Activision Blizzard,ATVI
 Adobe Systems Inc,ADBE
 Advance Auto Parts,AAP
 Advanced Micro Devices Inc,AMD
@@ -13,10 +13,10 @@ Aetna Inc,AET
 Agilent Technologies Inc,A
 Akamai Technologies Inc,AKAM
 Alaska Air Group Inc,ALK
-Alexion Pharmaceuticals,AZN
+Alexion Pharmaceuticals,ALXN
 Align Technology,ALGN
 Allegion,ALLE
-"Allergan, Plc",ABBV
+"Allergan, Plc",AGN
 Alliance Data Systems,BFH
 Altria Group Inc,MO
 Amazon.com Inc.,AMZN
@@ -51,8 +51,8 @@ Carmax Inc,KMX
 Caterpillar Inc.,CAT
 Cboe Global Markets,CBOE
 CBRE Group,CBRE
-CBS Corp.,PARA
-Celgene Corp.,BMY
+CBS Corp.,CBS
+Celgene Corp.,CELG
 CenturyLink Inc,LUMN
 Chevron Corp.,CVX
 Church & Dwight,CHD
@@ -60,7 +60,7 @@ CIGNA Corp.,CI
 Cimarex Energy,CTRA
 Cisco Systems,CSCO
 Citigroup Inc.,C
-Citrix Systems,AVGO
+Citrix Systems,CTXS
 CME Group Inc.,CME
 CMS Energy,CMS
 Coca-Cola Company (The),KO
@@ -97,8 +97,8 @@ F5 Networks,FFIV
 "Facebook, Inc.",META
 Fidelity National Information Services,FIS
 Fifth Third Bancorp,FITB
-FleetCor Technologies Inc,CPAY
-FLIR Systems,TDY
+FleetCor Technologies Inc,FLT
+FLIR Systems,FLIR
 Foot Locker Inc,FL
 Ford Motor,F
 Fortive Corp,FTV
@@ -146,7 +146,7 @@ Iron Mountain Incorporated,IRM
 Johnson Controls International,JCI
 JPMorgan Chase & Co.,JPM
 Juniper Networks,JNPR
-Kansas City Southern,CP
+Kansas City Southern,KSU
 Kellogg Co.,K
 Kimberly-Clark,KMB
 Kinder Morgan,KMI
@@ -186,7 +186,7 @@ News Corp. Class A,NWSA
 Nielsen Holdings,NLSN
 Nike,NKE
 NiSource Inc.,NI
-Noble Energy Inc,CVX
+Noble Energy Inc,NBL
 Nordstrom,JWN
 Norfolk Southern Corp.,NSC
 Norwegian Cruise Line,NCLH
@@ -211,7 +211,7 @@ Public Serv. Enterprise Inc.,PEG
 Quanta Services Inc.,PWR
 Quest Diagnostics,DGX
 Raytheon Co.,RTN
-Red Hat Inc.,IBM
+Red Hat Inc.,RHT
 Regeneron,REGN
 Regions Financial Corp.,RF
 Republic Services Inc,RSG
@@ -233,7 +233,7 @@ Starbucks Corp.,SBUX
 Stericycle Inc,SRCL
 Stryker Corp.,SYK
 SunTrust Banks,STI
-SVB Financial,SIVBQ
+SVB Financial,SIVB
 Symantec Corp.,GEN
 Synopsys Inc.,SNPS
 Sysco Corp.,SYY
@@ -248,7 +248,7 @@ The Hershey Company,HSY
 The Mosaic Company,MOS
 The Walt Disney Company,DIS
 Thermo Fisher Scientific,TMO
-Tiffany & Co.,LVMUY
+Tiffany & Co.,TIF
 Tractor Supply Company,TSCO
 TransDigm Group,TDG
 "Twitter, Inc.",X
@@ -259,11 +259,11 @@ United Health Group Inc.,UNH
 United Parcel Service,UPS
 United Technologies,UTX
 Valero Energy,VLO
-Varian Medical Systems,DHR
+Varian Medical Systems,VAR
 Ventas Inc,VTR
 Verisign Inc.,VRSN
 Verizon Communications,VZ
-Viacom Inc.,PARA
+Viacom Inc.,VIACOM
 Vulcan Materials,VMC
 Walgreens Boots Alliance,WBA
 Walmart,WMT
@@ -276,6 +276,6 @@ WestRock,WRK
 Weyerhaeuser,WY
 Xcel Energy Inc,XEL
 Xerox,XRX
-Xilinx,AMD
-XL Group,AXS
+Xilinx,XLNX
+XL Group,XL
 Yum! Brands Inc,YUM
