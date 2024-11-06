@@ -1,0 +1,25 @@
+Embedding Variant,n_days,best_alpha,MSE_testset
+KeFVP_Roberta,3,0.1,0.705
+KeFVP_Roberta,7,0.9,0.348
+KeFVP_Roberta,15,0.3,0.242
+KeFVP_Roberta,30,0.3,0.165
+KeFVP_Roberta2,3,0.5,0.672
+KeFVP_Roberta2,7,0.7,0.326
+KeFVP_Roberta2,15,0.5,0.21
+KeFVP_Roberta2,30,0.9,0.168
+KeFVP_investopedia,3,0.7,0.693
+KeFVP_investopedia,7,0.3,0.346
+KeFVP_investopedia,15,0.5,0.248
+KeFVP_investopedia,30,0.5,0.165
+KeFVP_bge,3,0.3,0.676
+KeFVP_bge,7,0.7,0.314
+KeFVP_bge,15,0.7,0.223
+KeFVP_bge,30,0.9,0.177
+KeFVP_bge_base,3,0.5,0.692
+KeFVP_bge_base,7,0.5,0.333
+KeFVP_bge_base,15,0.7,0.233
+KeFVP_bge_base,30,0.5,0.161
+KeFVP_glove,3,0.1,0.743
+KeFVP_glove,7,0.5,0.384
+KeFVP_glove,15,0.9,0.248
+KeFVP_glove,30,0.3,0.186
